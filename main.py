@@ -40,9 +40,9 @@ NEW_MEMBER = """
 
 ✦✧✦✧✦✧
 """
-api_id = 11965422
-api_hash = "93e6c27cbb4c4a3dbb29181a3f5e5c76"
-token = "5667723834:AAGBBRrKEaPIVSxS8C4SQlSHs5XeVWpbubI"
+api_id = 26445130
+api_hash = "5b11a42e2691bf939b6e740c7901d504"
+token = "5632422322:AAH_zk-uuEoadnf_U4mFtO28DOCdiIlscDU"
 OWNER_NAME = "𓆩᪵✘𝕯𓆪™ 𓆩𝘽𝙊𝘿𝙔𓆪 |🇪🇬| 𓆩𔘓𓆪"
 
 app = Client("yt", bot_token=token, api_id = api_id, api_hash = api_hash)
