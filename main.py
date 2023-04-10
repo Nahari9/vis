@@ -42,7 +42,7 @@ NEW_MEMBER = """
 """
 api_id = 26445130
 api_hash = "5b11a42e2691bf939b6e740c7901d504"
-token = "5632422322:AAH_zk-uuEoadnf_U4mFtO28DOCdiIlscDU"
+token = "5451838957:AAHNFP8voDQFvkbJRxuIeLqpGlFXSdTQ0Wc"
 OWNER_NAME = "𓆩᪵✘𝕯𓆪™ 𓆩𝘽𝙊𝘿𝙔𓆪 |🇪🇬| 𓆩𔘓𓆪"
 
 app = Client("yt", bot_token=token, api_id = api_id, api_hash = api_hash)
